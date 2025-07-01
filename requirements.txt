@@ -1,2 +1,7 @@
 flask
 redis
+
+# Development / Testing dependencies
+pytest
+ruff
+fakeredis
